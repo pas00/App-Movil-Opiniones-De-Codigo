@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Final_ProgramaMovil</string>
+    <string name="editTextEmailHint">Email</string>
+    <string name="editTextPasswordHint">Password</string>
+    <string name="buttonLoginText">Login</string>
+    <string name="buttonRegisterText">Register</string>
+    <string name="editTextUsernameHint">Username</string>
+    <string name="editTextConfirmPasswordHint">Confirm Password</string>
+    <string name="buttonRegisterUserText">Register</string>
+    <string name="editTextTitleHint">Title</string>
+    <string name="editTextDescriptionHint">Description</string>
+    <string name="editTextTagsHint">Tags (comma separated)</string>
+    <string name="editTextContentHint">Content</string>
+    <string name="buttonSubmitText">Submit</string>
+    <string name="toastRegistrationSuccessful">Registration successful</string>
+    <string name="toastPasswordsDoNotMatch">Passwords do not match</string>
+    <string name="toastInvalidEmailOrPassword">Invalid email or password</string>
+    <string name="toastFillAllFields">Please fill in all fields</string>
+    <string name="toastContentCategorizedSuccessfully">Content categorized successfully</string>
+    <string name="toastContentUploadedSuccessfully">Content uploaded successfully</string>
+    <string name="toastContentUploadFailed">Failed to upload content</string>
+
+    <string-array name="category_array">
+        <item>Java</item>
+        <item>Android</item>
+        <item>Web Development</item>
+        <item>Data Science</item>
+        <item>Machine Learning</item>
+        <!-- Añadir más categorías según sea necesario -->
+    </string-array>
+</resources>
